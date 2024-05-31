@@ -51,5 +51,5 @@ A "Calculadora IMC" é uma aplicação que permite calcular o Índice de Massa C
 
 ## CREDITOS:
 - [PROJETO CRIADO PELO VILHALVA](https://github.com/VILHALVA)
-- [ESTÁ DISPONIVEL NO SITE](https://vilhalva.github.io/STYLER/STYLER.html)
+
 
